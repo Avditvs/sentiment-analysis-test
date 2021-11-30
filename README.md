@@ -12,9 +12,9 @@
 
 ## Work I've done
 
-My answer to this test is oriented in 4 main parts in which I'll descrive more precicesly later, each one is done in a separated notebook that you can find in teh `notebooks` directory:
+My answer to this test is oriented in 3 main parts, each one is done in a separated notebook that you can find in the `notebooks` directory:
 - Description of the problem and data analysis
-- The different availables solutions
+- The different available solutions
 - The solutions I've implemented
 
 To clean the datasets and make the train/val split, run ```python preprocess.py```
