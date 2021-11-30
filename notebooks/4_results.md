@@ -1,12 +1,12 @@
 # Results
 
-In the notebooks 3_1 and 3_2 we have seen 2 models that satisfies the problem.
+In the notebooks 3_1 and 3_2 we have seen 2 models that satisfy the problem.
 
 The first one treats the problem as a 3 class classification task,   
-The second one as a regression task where we considered the 3 final classes as a discretization of the regression scrore.
+The second one as a regression task where we considered the 3 final classes as a discretization of the regression score.
 
 Both of the models performed well with about 85% accuracy each. 
-The classification one achieved slightly better accuracy
+The classification achieved slightly better accuracy
 
 Based on the confsion matrix, I would choose **the first model** because its accuracy on neutral texts is better and the one on both positive and negative is the same.
 
