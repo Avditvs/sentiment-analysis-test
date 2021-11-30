@@ -22,6 +22,23 @@ Possible sentiments:
 * `data/train.csv`: a training dataset containing 25k multilingual texts annotated with their corresponding sentiment
 * `data/test.csv`: a test dataset containing 2500 multilingual texts
 
+-------
+
+## Work I've done
+
+My answer to this test is oriented in 4 main parts in which I'll descrive more precicesly later, each one is done in a separated notebook that you can find in teh `notebooks` directory:
+- Description of the problem and data analysis
+- The different availables solutions
+- The solutions I've implemented
+
+To clean the datasets and make the train/val split, run ```python preprocess.py```
+To run inference, run `python infer.py`
+
+The predictions are located in `data/predictions.csv`
+
+--------
+
+
 ## 📖 Rules
 
 * Code should be written in Python 3
